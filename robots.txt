@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-rxrz9x.hondatoto58rmi.cyou/sitemap.xml
